@@ -132,3 +132,19 @@
 #### 2.2.6 前端触发，联动处理流程图
 
 ![属性联动流程图](/couplingEffect/images/couplingEffect.png)
+
+## 3 实现效果
+
+### 3.1 属性联动关系列表
+
+![属性联动关系列表](/couplingEffect/images/couplingEffectList.png)
+
+### 3.2 添加属性联动关系
+
+![添加属性联动关系](/couplingEffect/images/addCouplingEffect.jpeg)
+
+### 3.3 流程控制关系列表
+
+![流程控制关系列表](/couplingEffect/images/flowControllList.png)
+
+### 3.4 流程控制关系列表
