@@ -147,4 +147,6 @@
 
 ![流程控制关系列表](/couplingEffect/images/flowControllList.png)
 
-### 3.4 流程控制关系列表
+### 3.4 添加流程控制关系
+
+![添加流程控制关系](/couplingEffect/images/addFlowcontroll.png)
