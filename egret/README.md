@@ -1,4 +1,4 @@
-# games-platform
+# Egret白鹭游戏开发
 
 ## 1 项目介绍
 
