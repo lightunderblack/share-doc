@@ -8,9 +8,7 @@
 
 基于`Egret Engine`开发，借助`Egret`提供的各种工具完成工作。`Egret`开发介绍，请查看[使用Egret开发游戏指南](./guide/develop_game_by_egret.md)。`Egret`工具使用介绍：
 
-- [使用EUI Editor生成皮肤文件](https://xiaojiaoyukeji.yuque.com/xiaojiaoxue/ui/qnxvad)
 - [使用Texture Merger生成纹理集](./guide/generate_sprite_sheet_guide.md)
-- [使用Texture Merger生成Bitmap Font](https://xiaojiaoyukeji.yuque.com/xiaojiaoxue/ui/hvwhkf)
 - [使用Res Depot管理资源文件](./guide/manage_resource_by_res_depot.md)
 
 ## 3 架构设计
