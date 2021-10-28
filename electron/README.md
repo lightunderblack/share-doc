@@ -13,7 +13,7 @@
   - 客户端混合`loadFile`和`loadUrl`，其中大部分页面都是`local files`，只有直播页面是`remote pages`。
 - 班课经过`星火教育学生客户端`和`星火教育教师客户端`两个客户端产品迭代，也沉淀了相应技术文档：
   - Electron
-    - [Electron开发入门介绍](https://xiaojiaoyukeji.yuque.com/xiaojiaoxue/front/ggz7ra)
+    - [Electron开发入门介绍](https://www.electronjs.org/)
     - [Electron星火小学客户端开发](https://xiaojiaoyukeji.yuque.com/xiaojiaoxue/front/ngep2h)
     - [Electron班课客户端开发](https://xiaojiaoyukeji.yuque.com/xiaojiaoxue/front/ngep2h)
   - Umi
