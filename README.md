@@ -8,5 +8,6 @@
 - [统一工具库技术规划](/unite_util_sdk/README.md)
 - [代码规范和校验工具技术规划](/sonar_and_eslint/README.md)
 - [浅谈Node包管理](/node_package_management/README.md)
-- [星火教育客户端架构设计](/electron/README.md)
+- [星火教育客户端架构设计-初版](/client/README.md)
+- [星火教育客户端架构设计-改进版](/electron/README.md)
 - [monorepo预研](/lerna/README.md)
