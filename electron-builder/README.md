@@ -127,9 +127,6 @@ my-project/
 具体看[here](https://stackoverflow.com/questions/29039462/which-certificate-should-i-use-to-sign-my-mac-os-x-application#:~:text=Developer%20ID%20Application%3A%20Team%20Name%20Used%20to%20sign,your%20signed%20app%2C%20outside%20the%20Mac%20App%20Store)，需要有mac_application.p12、mac_installer.p12、密码3样东西。然后把这2个证书导入到钥匙串访问中即可。
 
 ### 3.3 生成文件说明
-
-![files](../images/files.png)
-
 - `*.yml`：`Windows`不同频道的自动更新配置文件
 - `*-mac.yml`：`macOS`不同频道的自动更新配置文件
 - `*.exe`：`Windows`安装包
