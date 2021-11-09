@@ -3,21 +3,18 @@
 ## 1. 技术选型
 [electron-builder](https://www.electron.build/)为我们提供了一套完整的可配置化的解决方案，从开发、编译打包，到部署、自动更新，都提供了相应的模块，其`Github Star`数`10k`更是比官方推荐的`electron-forge`的`4k`足足高了`6k`。`electron-builder`使用起来更加省心，而且官方文档写的更加详细易懂，所以选择 `electron-builder`作为基本开发框架。
 
-### 1.1 安装：
-
+### 1.1 安装
 ```json
 $ yarn add electron-builder --dev
 ```
-
-### 1.2 配置，修改 package.json 添加 build 字段：
+### 1.2 配置
 ```json
 {
- 	"build": {
+  "build": {
     "appId": "com.spark.PYClassroom"
   }
 }
 ```
-
 ## 2 本地开发
 `electron-builder`为我们提供了`electron-webpack`模块，让我们可以在`electron`中找到熟悉的`web`开发感觉；同时其并内置了对`Vue`、`React`流行框架以及`TS`的支持，通过`packageJSON.electronWebpack`进行自定义配置：
 
