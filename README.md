@@ -12,3 +12,4 @@
 - [星火教育客户端架构设计-改进版](/electron/README.md)
 - [monorepo预研](/lerna/README.md)
 - [基于electron-build打包Electron项目](/electron-builder/README.md)
+- [Electron Windows EV签名](/electron_windows_ev/README.md)
