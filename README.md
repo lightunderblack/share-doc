@@ -1,16 +1,22 @@
 ## 目录
 多年工作经历积累的技术文章以及方案
-- [面包屑技术方案](/breadcrumb/README.md)
-- [属性联动技术方案](/coupling_effect/README.md)
-- [定制组件技术方案](/customer_component/README.md)
-- [Egret白鹭游戏开发](/egret/README.md)
-- [基于Agora声网实现直播](/agora/README.md)
-- [统一工具库技术规划](/unite_util_sdk/README.md)
-- [代码规范和校验工具技术规划](/sonar_and_eslint/README.md)
-- [浅谈Node包管理](/node_package_management/README.md)
-- [星火教育客户端架构设计-初版](/client/README.md)
-- [星火教育客户端架构设计-改进版](/electron/README.md)
-- [monorepo预研](/lerna/README.md)
-- [Electron客户端开发总结](/electron_knowledge/README.md)
-- [基于electron-build打包Electron项目](/electron-builder/README.md)
-- [Electron Windows EV签名](/electron_windows_ev/README.md)
+- 技术方案
+  - [面包屑技术方案](/breadcrumb/README.md)
+  - [属性联动技术方案](/coupling_effect/README.md)
+  - [定制组件技术方案](/customer_component/README.md)
+  - [基于Agora声网实现直播](/agora/README.md)
+  - [星火教育客户端架构设计-初版](/client/README.md)
+  - [星火教育客户端架构设计-改进版](/electron/README.md)
+- 技术预研
+  - [浅谈Node包管理](/node_package_management/README.md)
+  - [monorepo预研](/lerna/README.md)
+- 项目总结
+  - [Egret白鹭游戏开发](/egret/README.md)
+  - [Electron客户端开发总结](/electron_knowledge/README.md)
+  - [基于electron-build打包Electron项目](/electron-builder/README.md)
+  - [Electron Windows EV签名](/electron_windows_ev/README.md)
+- 工程化规划
+  - [统一工具库技术规划](/unite_util_sdk/README.md)
+  - [代码规范和校验工具技术规划](/sonar_and_eslint/README.md)
+- 流程规范化
+  - [Code Review评分标准](/code_review_standards_of_grading/README.md)
